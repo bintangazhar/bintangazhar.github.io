@@ -2,6 +2,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justifty-content: middle;
+  justifty-content: center;
   height: 100vh;
+  font-family: 'Texturina', sans-serif;
 }
