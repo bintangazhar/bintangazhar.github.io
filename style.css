@@ -1,3 +1,7 @@
+* {
+  margin: 0;
+}
+
 body {
   display: flex;
   flex-direction: column;
@@ -7,6 +11,7 @@ body {
   font-family: 'Texturina', sans-serif;
   background-color: black;
   color: white;
+  gap: 12px;
 }
 
 .container {
