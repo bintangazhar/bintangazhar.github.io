@@ -20,3 +20,9 @@ body {
   margin-top: -100px;
   margin-left: -300px;
 }
+
+.social-wrapper {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
