@@ -29,10 +29,14 @@ body {
 .social-wrapper {
   display: flex;
   gap: 12px;
-  margin-top: 24px;
+  margin-top: 12px;
   justify-content: center;
 }
 
 .social-wrapper a:hover {
   color: blueviolet;
+}
+
+p {
+  margin-top: 6px;
 }
