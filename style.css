@@ -15,6 +15,7 @@ img {
 }
 
 .social-wrapper {
+  margin-top: 24px;
   margin-bottom: 48px;
   height: fit-content;
   display: flex;
